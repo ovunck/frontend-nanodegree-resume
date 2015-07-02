@@ -1,5 +1,6 @@
 //work contains an array of jobs. Each job object in jobs should contain an employer, title, location, dates worked and description.
 
+
 var work = {
 	"jobs" : [
 		{
