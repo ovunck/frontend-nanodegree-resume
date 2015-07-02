@@ -66,7 +66,7 @@ var projects = {
 
 var bio = {
   "name" : "Ovunc Kocabas",
-  "role" : "PhD Candidate",
+  "role" : "PhD. Candidate",
   "welcomeMessage" : "Hello there!",
   "contacts" : {
     "mobile" : "832-373-1216",
