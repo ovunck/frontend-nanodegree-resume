@@ -7,21 +7,21 @@ var work = {
 			"title" : "Research Assistant",
 			"location" : "Rochester, NY",
 			"dates" : "2010 - 2015",
-      "description" : "Designed algorithms for privacy-preserving cloud-based medical data analytics. Worked with patient ECG data from Telemetric and Holter ECG Warehouse (THEW) database."
+            "description" : "Designed algorithms for privacy-preserving cloud-based medical data analytics. Worked with patient ECG data from Telemetric and Holter ECG Warehouse (THEW) database."
 		},
 		{
 			"employer" : "Intel",
 			"title" : "Component Design Engineer Intern",
 			"location" : "Hillsboro, OR",
 			"dates" : "Feb. 2012 - Dec. 2012",
-      "description" : "Designed IREM (InfraRed Emission Microscope) automation flow for scan diagnosis."
+            "description" : "Designed IREM (InfraRed Emission Microscope) automation flow for scan diagnosis."
 		},
 		{
 			"employer" : "Rice University",
 			"title" : "Research Assistant",
 			"location" : "Houston, TX",
 			"dates" : "2008 - 2010",
-      "description" : "Investigated effects of hardware imperfections for fingerprinting wireless devices. Collected and analyzed data transmitted from wireless FPGA boards. Designed a classification algorithm to identify each wireless device uniquely."
+            "description" : "Investigated effects of hardware imperfections for fingerprinting wireless devices. Collected and analyzed data transmitted from wireless FPGA boards. Designed a classification algorithm to identify each wireless device uniquely."
 		}
 	]
 };
